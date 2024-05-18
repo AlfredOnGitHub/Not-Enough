@@ -1,9 +1,7 @@
 # TIMOPython
 Things I Made On Python.
 
-This demo is a project of a game that I made all by myself. I know that I can do it better (with List Comprehension, for example), but I wanted to keep it like that because I will be a better coder tomorrow, so it's a nonsense to me to keep it in my laptop without showing anything.
-
-I will be making better code soon.
+This demo is a project of a game that I made. I wanted to keep it simple because I want to push something. it's a nonsense to me to keep it in my laptop without showing anything.
 
 
 # HOW TO PLAY
